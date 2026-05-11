@@ -69,6 +69,6 @@ We operate at the intersection of offensive security and knowledge sharing. Our 
 
 <div align="center">
 
-*shellbet — 2025*
+*shellbet — 2026*
 
 </div>
